@@ -1,14 +1,7 @@
-<center>
-
-![Logo](src/assets/logo/logo.png)
-
-</center>
-<center>
-    <h1>💱 NumRate </h1>
+<div <div align="center">
+    <img src="/src/assets/logo/logo.png" alt="Numrate logo" title="Numrate logo" width="100"/>
+    <h1>NumRate </h1>
     <h2>Easy and fast viewing of exchange rates with support for multiple sources</h2>
-</center>
-
-<center>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=WiNE-iNEFF.Numrate&left_text=visitors)
 
@@ -16,11 +9,10 @@
 [![GitHub downloads](https://img.shields.io/github/downloads/WiNE-iNEFF/Numrate/total)](https://github.com/WiNE-iNEFF/Numrate/releases/latest)
 [![Apache-2.0 License](https://img.shields.io/github/license/WiNE-iNEFF/Numrate)](https://github.com/WiNE-iNEFF/Numrate/blob/main/LICENSE)
 
-</center>
-
 ---
 
 **NumRate** is a compact desktop application in Python (PySide2) for viewing current exchange rates. The project is inspired by the interfaces of crypto exchanges and banking platforms, with a focus on convenience, scalability and support for multiple data sources. At the moment, the application receives data from the website of the National Bank of the Republic of Belarus (NB RB), providing a simple and convenient interface for viewing the cost of currencies pegged to the Belarusian ruble.
+</div>
 
 ---
 ### 🔧 Current features
@@ -65,7 +57,7 @@
 
 The project is developing, and any suggestions are welcome. Create an *issue*, suggest improvements or just put ⭐️!
 You can also support the development financially:
-<center>
+<div align="center">
 
 | Wallet       | Adress                                           |
 | ------------ | ------------------------------------------------ |
@@ -73,13 +65,13 @@ You can also support the development financially:
 | BTC          | 3KhWEKA2LpGeesshPCfgRRLsZuBHFtCnfU               |
 | USDT (TRC20) | TGfzwpq2FhQbWisZMWyY98h2KgqV2JVjFH               |
 
-</center>
+</div>
 
 ---
 
 ### License
 
-<center>
+<div align="center">
 
         Copyright © 2025 Artsem Holub
 
@@ -94,4 +86,4 @@ You can also support the development financially:
         WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
         See the License for the specific language governing permissions and
         limitations under the License.
-</center>
+</div>
