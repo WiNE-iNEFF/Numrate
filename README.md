@@ -67,7 +67,8 @@ You can also support the development financially:
 ### License
 
 <div align="center">
-    
+<pre>
+        
     Copyright © 2025 Artsem Holub
     
     Licensed under the Apache License, Version 2.0 (the "License");
@@ -82,4 +83,5 @@ You can also support the development financially:
     See the License for the specific language governing permissions and
     limitations under the License.
     
+</pre>
 </div>
