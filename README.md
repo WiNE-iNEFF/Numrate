@@ -5,8 +5,7 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=WiNE-iNEFF.Numrate&left_text=visitors)
 
-[![Release date](https://img.shields.io/github/manifest-json/v/WiNE-iNEFF/Numrate)](https://github.com/WiNE-iNEFF/Numrate/releases/latest)
-[![GitHub downloads](https://img.shields.io/github/downloads/WiNE-iNEFF/Numrate/total)](https://github.com/WiNE-iNEFF/Numrate/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/WiNE-iNEFF/Numrate/total)](https://github.com/WiNE-iNEFF/Numrate/releases/latest)
 [![Apache-2.0 License](https://img.shields.io/github/license/WiNE-iNEFF/Numrate)](https://github.com/WiNE-iNEFF/Numrate/blob/main/LICENSE)
 
 ---
@@ -45,11 +44,7 @@
 
 ### 📥 Installation
 
-<center>
-
-[![Numrate Stable](https://img.shields.io/github/release/WiNE-iNEFF/Numrate.svg?maxAge=3600&label=Stable)](https://mihon.app/download)
-
-</center>
+![Numrate Release](https://img.shields.io/github/v/release/WiNE-iNEFF/Numrate)
 
 ---
 
