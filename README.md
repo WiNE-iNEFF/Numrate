@@ -1,4 +1,4 @@
-<div <div align="center">
+<div align="center">
     <img src="/src/assets/logo/logo.png" alt="Numrate logo" title="Numrate logo" width="100"/>
     <h1>NumRate </h1>
     <h2>Easy and fast viewing of exchange rates with support for multiple sources</h2>
@@ -10,15 +10,14 @@
 
 ---
 
-**NumRate** is a compact desktop application in Python (PySide2) for viewing current exchange rates. The project is inspired by the interfaces of crypto exchanges and banking platforms, with a focus on convenience, scalability and support for multiple data sources. At the moment, the application receives data from the website of the National Bank of the Republic of Belarus (NB RB), providing a simple and convenient interface for viewing the cost of currencies pegged to the Belarusian ruble.
+**NumRate** is a compact desktop application in Python (PySide2) for viewing current exchange rates. The project is inspired by the interfaces of crypto exchanges and banking platforms, with a focus on convenience, scalability and support for multiple data sources.
 </div>
 
 ---
 ### 🔧 Current features
 
-- 📡 Obtaining current exchange rates from the National Bank of the Republic of Belarus (NB RB)
-- 🔍 Search by currency pairs: instant filtering by keywords (for example: USD, BYN)
-- 📋 Simple list with exchange rate display
+- 🔍 Look for the necessary information regarding sources, currencies, etc.
+- 📋 Simple table with exchange rate display
 - 🌙 Minimalistic interface, ready for expansion
 
 ---
@@ -69,7 +68,7 @@ You can also support the development financially:
 <div align="center">
 <pre>
         
-    Copyright © 2025 Artsem Holub
+    Copyright © 2025-2026 Artsem Holub
     
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
