@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="/src/assets/logo/logo.png" alt="Numrate logo" title="Numrate logo" width="100"/>
+    <img src="icon_1.png.png" alt="Numrate logo" title="Numrate logo" width="100"/>
     <h1>NumRate </h1>
     <h2>Easy and fast viewing of exchange rates with support for multiple sources</h2>
 
